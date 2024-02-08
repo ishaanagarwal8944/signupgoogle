@@ -1,0 +1,20 @@
+.mn {
+    text-align: center;
+    background-color: springgreen;
+    height: 450px;
+    width: 35%;
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+    margin-top: 100px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-radius: 18px;
+    border: 2.5px solid black;
+    filter: brightness(120%);
+}
+
+body {
+    background-color: springgreen;
+    font-family: 'Poppins', sans-serif;
+}

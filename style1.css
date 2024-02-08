@@ -1,0 +1,86 @@
+.mn {
+    text-align: center;
+    background-color: springgreen;
+    height: 450px;
+    width: 35%;
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+    margin-top: 100px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-radius: 18px;
+    border: 2.5px solid black;
+    filter: brightness(120%);
+}
+
+body {
+    background-color: springgreen;
+    font-family: 'Poppins', sans-serif;
+}
+
+button.drk {
+    width: 30px;
+    height: 30px;
+    background-image: url(drkmode.webp);
+    background-position: center;
+    background-size: contain;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-right: -88%;
+    background-color: springgreen;
+}
+
+button.drk:hover {
+    background-color: white;
+}
+
+.dark-mode {
+    background-color: green;
+}
+
+.logo {
+    margin-top: -12px;
+}
+
+.userid {
+    height: 50px;
+    width: 85%;
+    border-radius: 12px;
+    border-width: 0px;
+    font-size: medium;
+    margin-bottom: 12px;
+}
+
+.nxt {
+    margin-left: 220px;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
+    height: 35px;
+    width: 80px;
+    background-color: blue;
+    color: white;
+}
+
+.ca {
+    background-color: springgreen;
+    border-width: 0px;
+    color: blue;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 4px;
+}
+
+.ca:active {
+    background-color: lightgray;
+}
+
+h4 {
+    margin-left: -290px;
+    margin-top: -0.5px;
+}
+
+h3 {
+    margin-top: -20px;
+}
